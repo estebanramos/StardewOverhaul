@@ -1,0 +1,10 @@
+{
+  "Name": "Hauntzker's & Ropx's Stardew Valley Overhaul",
+  "Author": "Hauntzker & Ropx",
+  "Version": "1.0.0",
+  "Description": "",
+  "UniqueID": "HauntzkerRopx.SVOverhaul",
+  "EntryDll": "StardewOverhaul.dll",
+  "MinimumApiVersion": "3.0.0",
+  "UpdateKeys": []
+}
